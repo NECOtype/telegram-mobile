@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for [Telegram](https://telegram.org) mobile</h2>
+    <h2 align="center">Rosé Pine for <a href="https://telegram.org">Telegram</a> mobile</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,9 +13,9 @@
 
 ## Usage
 
-1. Go to the following link https://t.me/addtheme/rosepine_soho
-2. Open it in Telegram mobile
-3. Select `Apply`
+1. Tap the following link: https://t.me/addtheme/rosepine_soho
+2. Open it in the Telegram mobile app
+3. Tap `Apply` to instantly apply the theme
 
 ## Gallery
 
