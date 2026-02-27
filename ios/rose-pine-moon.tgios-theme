@@ -1,8 +1,8 @@
-name: Rosé Pine
+name: Rosé Pine Moon
 basedOn: night
 dark: true
 intro:
-  statusBar: white
+  statusBar: e0def4
   primaryText: e0def4
   accentText: dd00dd
   disabledText: 525252
@@ -16,36 +16,36 @@ passcode:
 root:
   statusBar: white
   tabBar:
-    background: 191724
+    background: 232136
     separator: 8c545458
     icon: e0def4
-    selectedIcon: 31748f
+    selectedIcon: 3e8fb0
     text: e0def4
-    selectedText: 31748f
+    selectedText: 3e8fb0
     badgeBackground: eb6f92
     badgeStroke: 1c1c1d
     badgeText: ffffff
   navBar:
     button: e0def4
     disabledButton: 6e6a86
-    primaryText: ffffff
+    primaryText: e0def4
     secondaryText: 7fffffff
     control: 767676
     accentText: c4a7e7
-    background: 191724
-    opaqueBackground: 191724
+    background: 232136
+    opaqueBackground: 232136
     separator: 8c545458
     badgeFill: eb6f92
     badgeStroke: 1c1c1d
-    badgeText: ffffff
+    badgeText: e0def4
     segmentedBg: 3a3b3d
     segmentedFg: 6f7075
     segmentedText: ffffff
     segmentedDivider: 505155
   searchBar:
-    background: 26233a
+    background: 393552
     accent: c4a7e7
-    inputFill: 26233a
+    inputFill: 393552
     inputText: e0def4
     inputPlaceholderText: 6e6a86
     inputIcon: c4a7e7
@@ -53,18 +53,18 @@ root:
     separator: d00000
   keyboard: dark
 list:
-  blocksBg: 191724
-  plainBg: 191724
+  blocksBg: 232136
+  plainBg: 232136
   primaryText: e0def4
   secondaryText: c4a7e7
   disabledText: 6e6a86
-  accent: 31748f
+  accent: 3e8fb0
   highlighted: 28b772
   destructive: eb6f92
   placeholderText: 6e6a86
-  itemBlocksBg: 26233a
-  itemHighlightedBg: 403d52
-  blocksSeparator: 403d52
+  itemBlocksBg: 393552
+  itemHighlightedBg: 44415a
+  blocksSeparator: 44415a
   plainSeparator: 8c545458
   disclosureArrow: c4a7e7
   sectionHeaderText: c4a7e7
@@ -76,7 +76,7 @@ list:
     frame: 6e6a86
     handle: d00000
     content: 67ce67
-    positive: 31748f
+    positive: 3e8fb0
     negative: eb6f92
   disclosureActions:
     neutral1:
@@ -126,13 +126,13 @@ list:
     primary: ffffff
     control: 8f8f8f
 chatList:
-  bg: 1f1d2e
+  bg: 2a273f
   itemSeparator: 2a283e
-  itemBg: 1f1d2e
-  pinnedItemBg: 26233a
-  itemHighlightedBg: 403d52
-  pinnedItemHighlightedBg: 403d52
-  itemSelectedBg: 403d52
+  itemBg: 2a273f
+  pinnedItemBg: 393552
+  itemHighlightedBg: 44415a
+  pinnedItemHighlightedBg: 44415a
+  itemSelectedBg: 44415a
   title: e0def4
   secretTitle: f6c177
   dateText: 6e6a86
@@ -150,12 +150,12 @@ chatList:
   unreadBadgeInactiveBg: 6e6a86
   unreadBadgeInactiveText: e0def4
   reactionBadgeActiveBg: eb6f92
-  pinnedBadge: 31748f
-  pinnedSearchBar: 272728
-  regularSearchBar: 272728
-  sectionHeaderBg: 26233a
+  pinnedBadge: 3e8fb0
+  pinnedSearchBar: 2a273f
+  regularSearchBar: 2a273f
+  sectionHeaderBg: 393552
   sectionHeaderText: e0def4
-  verifiedIconBg: 31748f
+  verifiedIconBg: 3e8fb0
   verifiedIconFg: e0def4
   secretIcon: f6c177
   pinnedArchiveAvatar:
@@ -185,9 +185,9 @@ chat:
     incoming:
       bubble:
         withWp:
-          bg: 1f1d2e
-          gradientBg: 1f1d2e
-          highlightedBg: 591f1d2e
+          bg: 2a273f
+          gradientBg: 2a273f
+          highlightedBg: 592a273f
           stroke: clear
           reactionInactiveBg: 11ffffff
           reactionInactiveFg: ffffff
@@ -376,20 +376,20 @@ chat:
         scam: eb6f92
         dateFillStatic: 33000000
         dateFillFloat: 33000000
-    unreadBarBg: aa26233a
-    unreadBarStroke: 26233a
+    unreadBarBg: aa393552
+    unreadBarStroke: 393552
     unreadBarText: e0def4
     dateText:
       withWp: ffffff
       withoutWp: ffffff
   inputPanel:
-    panelBg: e51f1d2e
+    panelBg: e52a273f
     panelSeparator: 8c545458
     panelControlAccent: c4a7e7
     panelControl_v2: ffffff
     panelControlDisabled: 7f808080
     panelControlDestructive: eb6f92
-    inputBg: e51f1d2e
+    inputBg: e52a273f
     inputStroke: 19ffffff
     inputPlaceholder_v2: 7affffff
     inputText_v2: ffffff
@@ -466,9 +466,9 @@ actionSheet:
   checkContent: ffffff
 contextMenu:
   dim: 22000000
-  background: 1f1d2e
-  itemSeparator: 403d52
-  sectionSeparator: 191724
+  background: 2a273f
+  itemSeparator: 44415a
+  sectionSeparator: 232136
   itemBg: 00000000
   itemHighlightedBg: 26ffffff
   primary: e0def4

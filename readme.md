@@ -28,3 +28,11 @@
 ## Thanks to
 
 - [NECOdes](https://github.com/NECOtype)
+
+<!-- BLOOM_BUILD_START -->
+This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
+
+```sh
+bloom build <template>
+```
+<!-- BLOOM_BUILD_END -->

@@ -2,7 +2,7 @@ name: Rosé Pine
 basedOn: night
 dark: true
 intro:
-  statusBar: white
+  statusBar: e0def4
   primaryText: e0def4
   accentText: dd00dd
   disabledText: 525252
@@ -28,7 +28,7 @@ root:
   navBar:
     button: e0def4
     disabledButton: 6e6a86
-    primaryText: ffffff
+    primaryText: e0def4
     secondaryText: 7fffffff
     control: 767676
     accentText: c4a7e7
@@ -37,7 +37,7 @@ root:
     separator: 8c545458
     badgeFill: eb6f92
     badgeStroke: 1c1c1d
-    badgeText: ffffff
+    badgeText: e0def4
     segmentedBg: 3a3b3d
     segmentedFg: 6f7075
     segmentedText: ffffff
@@ -151,8 +151,8 @@ chatList:
   unreadBadgeInactiveText: e0def4
   reactionBadgeActiveBg: eb6f92
   pinnedBadge: 31748f
-  pinnedSearchBar: 272728
-  regularSearchBar: 272728
+  pinnedSearchBar: 1f1d2e
+  regularSearchBar: 1f1d2e
   sectionHeaderBg: 26233a
   sectionHeaderText: e0def4
   verifiedIconBg: 31748f

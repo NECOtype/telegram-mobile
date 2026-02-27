@@ -1,9 +1,9 @@
-name: Rosé Pine
+name: $name
 basedOn: night
 dark: true
 intro:
-  statusBar: white
-  primaryText: e0def4
+  statusBar: $text
+  primaryText: $text
   accentText: dd00dd
   disabledText: 525252
   startButton: 3e88f7
@@ -16,68 +16,68 @@ passcode:
 root:
   statusBar: white
   tabBar:
-    background: 191724
+    background: $base
     separator: 8c545458
-    icon: e0def4
-    selectedIcon: 31748f
-    text: e0def4
-    selectedText: 31748f
-    badgeBackground: eb6f92
+    icon: $text
+    selectedIcon: $pine
+    text: $text
+    selectedText: $pine
+    badgeBackground: $love
     badgeStroke: 1c1c1d
     badgeText: ffffff
   navBar:
-    button: e0def4
-    disabledButton: 6e6a86
-    primaryText: ffffff
+    button: $text
+    disabledButton: $muted
+    primaryText: $text
     secondaryText: 7fffffff
     control: 767676
-    accentText: c4a7e7
-    background: 191724
-    opaqueBackground: 191724
+    accentText: $iris
+    background: $base
+    opaqueBackground: $base
     separator: 8c545458
-    badgeFill: eb6f92
+    badgeFill: $love
     badgeStroke: 1c1c1d
-    badgeText: ffffff
+    badgeText: $text
     segmentedBg: 3a3b3d
     segmentedFg: 6f7075
     segmentedText: ffffff
     segmentedDivider: 505155
   searchBar:
-    background: 26233a
-    accent: c4a7e7
-    inputFill: 26233a
-    inputText: e0def4
-    inputPlaceholderText: 6e6a86
-    inputIcon: c4a7e7
-    inputClearButton: c4a7e7
+    background: $overlay
+    accent: $iris
+    inputFill: $overlay
+    inputText: $text
+    inputPlaceholderText: $muted
+    inputIcon: $iris
+    inputClearButton: $iris
     separator: d00000
-  keyboard: dark
+  keyboard: $appearance
 list:
-  blocksBg: 191724
-  plainBg: 191724
-  primaryText: e0def4
-  secondaryText: c4a7e7
-  disabledText: 6e6a86
-  accent: 31748f
+  blocksBg: $base
+  plainBg: $base
+  primaryText: $text
+  secondaryText: $iris
+  disabledText: $muted
+  accent: $pine
   highlighted: 28b772
-  destructive: eb6f92
-  placeholderText: 6e6a86
-  itemBlocksBg: 26233a
-  itemHighlightedBg: 403d52
-  blocksSeparator: 403d52
+  destructive: $love
+  placeholderText: $muted
+  itemBlocksBg: $overlay
+  itemHighlightedBg: $highlightMed
+  blocksSeparator: $highlightMed
   plainSeparator: 8c545458
-  disclosureArrow: c4a7e7
-  sectionHeaderText: c4a7e7
-  freeText: 908caa
-  freeTextError: eb6f92
-  freeTextSuccess: 9ccfd8
-  freeMonoIcon: c4a7e7
+  disclosureArrow: $iris
+  sectionHeaderText: $iris
+  freeText: $subtle
+  freeTextError: $love
+  freeTextSuccess: $foam
+  freeMonoIcon: $iris
   switch:
-    frame: 6e6a86
+    frame: $muted
     handle: d00000
     content: 67ce67
-    positive: 31748f
-    negative: eb6f92
+    positive: $pine
+    negative: $love
   disclosureActions:
     neutral1:
       bg: 666666
@@ -126,38 +126,38 @@ list:
     primary: ffffff
     control: 8f8f8f
 chatList:
-  bg: 1f1d2e
+  bg: $surface
   itemSeparator: 2a283e
-  itemBg: 1f1d2e
-  pinnedItemBg: 26233a
-  itemHighlightedBg: 403d52
-  pinnedItemHighlightedBg: 403d52
-  itemSelectedBg: 403d52
-  title: e0def4
-  secretTitle: f6c177
-  dateText: 6e6a86
-  authorName: c4a7e7
-  messageText: e0def4
-  messageHighlightedText: e0def4
-  messageDraftText: f6c177
-  checkmark: 9ccfd8
-  pendingIndicator: f6c177
-  failedFill: eb6f92
-  failedFg: e0def4
-  muteIcon: 6e6a86
-  unreadBadgeActiveBg: eb6f92
-  unreadBadgeActiveText: e0def4
-  unreadBadgeInactiveBg: 6e6a86
-  unreadBadgeInactiveText: e0def4
-  reactionBadgeActiveBg: eb6f92
-  pinnedBadge: 31748f
-  pinnedSearchBar: 272728
-  regularSearchBar: 272728
-  sectionHeaderBg: 26233a
-  sectionHeaderText: e0def4
-  verifiedIconBg: 31748f
-  verifiedIconFg: e0def4
-  secretIcon: f6c177
+  itemBg: $surface
+  pinnedItemBg: $overlay
+  itemHighlightedBg: $highlightMed
+  pinnedItemHighlightedBg: $highlightMed
+  itemSelectedBg: $highlightMed
+  title: $text
+  secretTitle: $gold
+  dateText: $muted
+  authorName: $iris
+  messageText: $text
+  messageHighlightedText: $text
+  messageDraftText: $gold
+  checkmark: $foam
+  pendingIndicator: $gold
+  failedFill: $love
+  failedFg: $text
+  muteIcon: $muted
+  unreadBadgeActiveBg: $love
+  unreadBadgeActiveText: $text
+  unreadBadgeInactiveBg: $muted
+  unreadBadgeInactiveText: $text
+  reactionBadgeActiveBg: $love
+  pinnedBadge: $pine
+  pinnedSearchBar: $surface
+  regularSearchBar: $surface
+  sectionHeaderBg: $overlay
+  sectionHeaderText: $text
+  verifiedIconBg: $pine
+  verifiedIconFg: $text
+  secretIcon: $gold
   pinnedArchiveAvatar:
     background:
       top: 72d5fd
@@ -168,7 +168,7 @@ chatList:
       top: 666666
       bottom: 666666
     foreground: 000000
-  onlineDot: 9ccfd8
+  onlineDot: $foam
   storyUnseen:
     top: 34c76f
     bottom: 3da1fd
@@ -185,9 +185,9 @@ chat:
     incoming:
       bubble:
         withWp:
-          bg: 1f1d2e
-          gradientBg: 1f1d2e
-          highlightedBg: 591f1d2e
+          bg: $surface
+          gradientBg: $surface
+          highlightedBg: 59$surface
           stroke: clear
           reactionInactiveBg: 11ffffff
           reactionInactiveFg: ffffff
@@ -206,12 +206,12 @@ chat:
           reactionActiveFg: ffffff
           reactionInactiveMediaPlaceholder: 19ffffff
           reactionActiveMediaPlaceholder: 19ffffff
-      primaryText: e0def4
-      secondaryText: 6e6a86
-      linkText: eb6f92
-      linkHighlight: 7feb6f92
-      scam: eb6f92
-      textHighlight: f6c177
+      primaryText: $text
+      secondaryText: $muted
+      linkText: $love
+      linkHighlight: 7f$love
+      scam: $love
+      textHighlight: $gold
       accentText: 3e88f7
       accentControl: 3e88f7
       mediaActiveControl: 3e88f7
@@ -270,10 +270,10 @@ chat:
           reactionActiveFg: 00000000
           reactionInactiveMediaPlaceholder: 19ffffff
           reactionActiveMediaPlaceholder: 19ffffff
-      primaryText: e0def4
-      secondaryText: 908caa
-      linkText: eb6f92
-      linkHighlight: 7feb6f92
+      primaryText: $text
+      secondaryText: $subtle
+      linkText: $love
+      linkHighlight: 7f$love
       scam: ffffff
       textHighlight: f5c038
       accentText: ffffff
@@ -351,7 +351,7 @@ chat:
       stroke: ffffff
       fg: ffffff
     deliveryFailed:
-      bg: eb6f92
+      bg: $love
       fg: ffffff
     mediaHighlightOverlay: 99ffffff
     stickerPlaceholder:
@@ -366,39 +366,39 @@ chat:
         bg: 1f1f1f
         primaryText: ffffff
         linkHighlight: 1effffff
-        scam: eb6f92
+        scam: $love
         dateFillStatic: 33000000
         dateFillFloat: 33000000
       withCustomWp:
         bg: 1f1f1f
         primaryText: ffffff
         linkHighlight: 1effffff
-        scam: eb6f92
+        scam: $love
         dateFillStatic: 33000000
         dateFillFloat: 33000000
-    unreadBarBg: aa26233a
-    unreadBarStroke: 26233a
-    unreadBarText: e0def4
+    unreadBarBg: aa$overlay
+    unreadBarStroke: $overlay
+    unreadBarText: $text
     dateText:
       withWp: ffffff
       withoutWp: ffffff
   inputPanel:
-    panelBg: e51f1d2e
+    panelBg: e5$surface
     panelSeparator: 8c545458
-    panelControlAccent: c4a7e7
+    panelControlAccent: $iris
     panelControl_v2: ffffff
     panelControlDisabled: 7f808080
-    panelControlDestructive: eb6f92
-    inputBg: e51f1d2e
+    panelControlDestructive: $love
+    inputBg: e5$surface
     inputStroke: 19ffffff
     inputPlaceholder_v2: 7affffff
     inputText_v2: ffffff
     inputControl_v2: 7fffffff
     actionControlBg: 3e88f7
-    actionControlFg: e0def4
-    primaryText: e0def4
-    secondaryText: 6e6a86
-    mediaRecordDot: eb6f92
+    actionControlFg: $text
+    primaryText: $text
+    secondaryText: $muted
+    mediaRecordDot: $love
     mediaRecordControl:
       button: 3e88f7
       micLevel: 333e88f7
@@ -445,14 +445,14 @@ chat:
     badgeText: ffffff
 actionSheet:
   dim: 7f000000
-  bgType: dark
+  bgType: $appearance
   opaqueItemBg: 1c1c1d
   itemBg: cc1c1c1d
   opaqueItemHighlightedBg: 000000
   itemHighlightedBg: 7f000000
   opaqueItemSeparator: 8c545458
   standardActionText: 3e88f7
-  destructiveActionText: eb6f92
+  destructiveActionText: $love
   disabledActionText: 4d4d4d
   primaryText: ffffff
   secondaryText: 5e5e5e
@@ -466,19 +466,19 @@ actionSheet:
   checkContent: ffffff
 contextMenu:
   dim: 22000000
-  background: 1f1d2e
-  itemSeparator: 403d52
-  sectionSeparator: 191724
+  background: $surface
+  itemSeparator: $highlightMed
+  sectionSeparator: $base
   itemBg: 00000000
   itemHighlightedBg: 26ffffff
-  primary: e0def4
-  secondary: 7fe0def4
-  destructive: eb6f92
+  primary: $text
+  secondary: 7f$text
+  destructive: $love
 notification:
   bg: 1c1c1d
   primaryText: ffffff
   expanded:
-    bgType: dark
+    bgType: $appearance
     navBar:
       background: 1c1c1d
       primaryText: ffffff
