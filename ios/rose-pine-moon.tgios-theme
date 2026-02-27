@@ -24,7 +24,7 @@ root:
     selectedText: 3e8fb0
     badgeBackground: eb6f92
     badgeStroke: 1c1c1d
-    badgeText: ffffff
+    badgeText: e0def4
   navBar:
     button: e0def4
     disabledButton: 6e6a86
@@ -45,11 +45,11 @@ root:
   searchBar:
     background: 393552
     accent: c4a7e7
-    inputFill: 393552
+    inputFill: 2a273f
     inputText: e0def4
     inputPlaceholderText: 6e6a86
-    inputIcon: c4a7e7
-    inputClearButton: c4a7e7
+    inputIcon: 6e6a86
+    inputClearButton: 6e6a86
     separator: d00000
   keyboard: dark
 list:
@@ -81,29 +81,29 @@ list:
   disclosureActions:
     neutral1:
       bg: 666666
-      fg: ffffff
+      fg: e0def4
     neutral2:
-      bg: cd7800
-      fg: ffffff
+      bg: 9ccfd8
+      fg: e0def4
     destructive:
-      bg: c70c0c
-      fg: ffffff
+      bg: eb6f92
+      fg: e0def4
     constructive:
-      bg: 08a723
-      fg: ffffff
+      bg: 3e8fb0
+      fg: e0def4
     accent:
-      bg: 666666
-      fg: ffffff
+      bg: 6e6a86
+      fg: e0def4
     warning:
       bg: cd7800
       fg: ffffff
     inactive:
-      bg: 666666
-      fg: ffffff
+      bg: 6e6a86
+      fg: e0def4
   check:
-    bg: 3e88f7
-    stroke: 4cffffff
-    fg: ffffff
+    bg: 3e8fb0
+    stroke: 4ce0def4
+    fg: e0def4
   controlSecondary: 7fffffff
   freeInputField:
     bg: 272728

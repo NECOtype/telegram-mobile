@@ -24,7 +24,7 @@ root:
     selectedText: $pine
     badgeBackground: $love
     badgeStroke: 1c1c1d
-    badgeText: ffffff
+    badgeText: $text
   navBar:
     button: $text
     disabledButton: $muted
@@ -45,11 +45,11 @@ root:
   searchBar:
     background: $overlay
     accent: $iris
-    inputFill: $overlay
+    inputFill: $surface
     inputText: $text
     inputPlaceholderText: $muted
-    inputIcon: $iris
-    inputClearButton: $iris
+    inputIcon: $muted
+    inputClearButton: $muted
     separator: d00000
   keyboard: $appearance
 list:
@@ -81,29 +81,29 @@ list:
   disclosureActions:
     neutral1:
       bg: 666666
-      fg: ffffff
+      fg: $text
     neutral2:
-      bg: cd7800
-      fg: ffffff
+      bg: $foam
+      fg: $text
     destructive:
-      bg: c70c0c
-      fg: ffffff
+      bg: $love
+      fg: $text
     constructive:
-      bg: 08a723
-      fg: ffffff
+      bg: $pine
+      fg: $text
     accent:
-      bg: 666666
-      fg: ffffff
+      bg: $muted
+      fg: $text
     warning:
       bg: cd7800
       fg: ffffff
     inactive:
-      bg: 666666
-      fg: ffffff
+      bg: $muted
+      fg: $text
   check:
-    bg: 3e88f7
-    stroke: 4cffffff
-    fg: ffffff
+    bg: $pine
+    stroke: 4c$text
+    fg: $text
   controlSecondary: 7fffffff
   freeInputField:
     bg: 272728
