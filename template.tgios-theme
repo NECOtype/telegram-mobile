@@ -2,7 +2,7 @@ name: $name
 basedOn: night
 dark: true
 intro:
-  statusBar: $text
+  statusBar: white
   primaryText: $text
   accentText: dd00dd
   disabledText: 525252

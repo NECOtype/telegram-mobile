@@ -2,7 +2,7 @@ name: Rosé Pine Moon
 basedOn: night
 dark: true
 intro:
-  statusBar: e0def4
+  statusBar: white
   primaryText: e0def4
   accentText: dd00dd
   disabledText: 525252

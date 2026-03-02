@@ -2,7 +2,7 @@ name: Rosé Pine Dawn
 basedOn: day
 dark: false
 intro:
-  statusBar: 575279
+  statusBar: black
   primaryText: 575279
   accentText: dd00dd
   disabledText: 525252
@@ -14,7 +14,7 @@ passcode:
     bottom: 000000
   button: 1c1c1d
 root:
-  statusBar: white
+  statusBar: black
   tabBar:
     background: faf4ed
     separator: 8c545458
