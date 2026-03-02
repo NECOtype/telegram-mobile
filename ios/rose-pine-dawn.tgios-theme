@@ -24,7 +24,7 @@ root:
     selectedText: 286983
     badgeBackground: b4637a
     badgeStroke: 1c1c1d
-    badgeText: 575279
+    badgeText: faf4ed
   navBar:
     button: 575279
     disabledButton: 9893a5
@@ -37,7 +37,7 @@ root:
     separator: 8c545458
     badgeFill: b4637a
     badgeStroke: 1c1c1d
-    badgeText: 575279
+    badgeText: faf4ed
     segmentedBg: 3a3b3d
     segmentedFg: 6f7075
     segmentedText: ffffff
@@ -146,9 +146,9 @@ chatList:
   failedFg: 575279
   muteIcon: 9893a5
   unreadBadgeActiveBg: b4637a
-  unreadBadgeActiveText: 575279
+  unreadBadgeActiveText: faf4ed
   unreadBadgeInactiveBg: 9893a5
-  unreadBadgeInactiveText: 575279
+  unreadBadgeInactiveText: faf4ed
   reactionBadgeActiveBg: b4637a
   pinnedBadge: 286983
   pinnedSearchBar: fffaf3
