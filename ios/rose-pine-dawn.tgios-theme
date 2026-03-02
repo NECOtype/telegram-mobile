@@ -14,7 +14,7 @@ passcode:
     bottom: 000000
   button: 1c1c1d
 root:
-  statusBar: black
+  statusBar: white
   tabBar:
     background: faf4ed
     separator: 8c545458

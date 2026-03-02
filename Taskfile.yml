@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://taskfile.dev/schema.json
+
+version: '3'
+
+vars:
+  IOS_OUT: ios
+  IOS_TMP: template.tgios-theme
+  IOS_DWN: rose-pine-dawn.tgios-theme
+
+tasks:
+  bloom:ios:
+    desc: Generate a pallete for iOS, using Bloom
+    cmds:
+      - bloom.exe build {{.IOS_TMP}} --plain -o {{.IOS_OUT}}/
+    silent: true
+
+  fix-dawn:ios:
+    internal: true
+    dir: '{{.IOS_OUT}}'
+    deps: [bloom:ios]
+    cmds:
+      - echo "fix-dawn"
+      - "sed -i 's/basedOn: night/basedOn: day/' {{.IOS_DWN}}"
+      - "sed -i 's/dark: true/dark: false/' {{.IOS_DWN}}"
+      - "sed -i 's/statusBar: black/statusBar: white/' {{.IOS_DWN}}"
+
+  ios:
+    desc: Build iOS Telegram theme
+    deps: [fix-dawn:ios]
