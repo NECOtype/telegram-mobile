@@ -81,29 +81,29 @@ list:
   disclosureActions:
     neutral1:
       bg: 666666
-      fg: 575279
+      fg: faf4ed
     neutral2:
       bg: 56949f
-      fg: 575279
+      fg: faf4ed
     destructive:
       bg: b4637a
-      fg: 575279
+      fg: faf4ed
     constructive:
       bg: 286983
-      fg: 575279
+      fg: faf4ed
     accent:
       bg: 9893a5
-      fg: 575279
+      fg: faf4ed
     warning:
       bg: cd7800
       fg: ffffff
     inactive:
       bg: 9893a5
-      fg: 575279
+      fg: faf4ed
   check:
     bg: 286983
     stroke: 4c575279
-    fg: 575279
+    fg: faf4ed
   controlSecondary: 7fffffff
   freeInputField:
     bg: 272728

@@ -26,6 +26,7 @@ tasks:
       - "sed -i 's/badgeText: 575279/badgeText: faf4ed/' {{.IOS_DWN}}"
       - "sed -i 's/unreadBadgeActiveText: 575279/unreadBadgeActiveText: faf4ed/' {{.IOS_DWN}}"
       - "sed -i 's/unreadBadgeInactiveText: 575279/unreadBadgeInactiveText: faf4ed/' {{.IOS_DWN}}"
+      - "sed -i 's/fg: 575279/fg: faf4ed/' {{.IOS_DWN}}"
 
   ios:
     desc: Build iOS Telegram theme
