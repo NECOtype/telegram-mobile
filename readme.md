@@ -7,9 +7,13 @@
 
 ## Usage
 
-1. Tap the following link: https://t.me/addtheme/rosepine_soho
+1. Tap the following link: https://t.me/addtheme/rosepine_base
 2. Open it in the Telegram mobile app
 3. Tap `Apply` to instantly apply the theme
+
+### Other flavors (iOS only)
+- https://t.me/addtheme/rosepine_dawn
+- https://t.me/addtheme/rosepine_moon
 
 ## Gallery
 
@@ -28,11 +32,5 @@
 ## Thanks to
 
 - [NECOdes](https://github.com/NECOtype)
-
-<!-- BLOOM_BUILD_START -->
-This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
-
-```sh
-bloom build <template>
-```
-<!-- BLOOM_BUILD_END -->
+---
+iOS theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom) and [Task](https://taskfile.dev).
