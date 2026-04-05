@@ -96,7 +96,7 @@ list:
       fg: faf4ed
     warning:
       bg: cd7800
-      fg: ffffff
+      fg: faf4ed
     inactive:
       bg: 9893a5
       fg: faf4ed
@@ -442,7 +442,7 @@ chat:
     fg: dd0000
     badgeBg: 3e88f7
     badgeStroke: 3e88f7
-    badgeText: ffffff
+    badgeText: faf4ed
 actionSheet:
   dim: 7f000000
   bgType: light

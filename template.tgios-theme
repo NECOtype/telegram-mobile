@@ -1,8 +1,8 @@
 name: $name
-basedOn: night
-dark: true
+basedOn: $(night|night|day)
+dark: $(true|true|false)
 intro:
-  statusBar: white
+  statusBar: $(white|white|black)
   primaryText: $text
   accentText: dd00dd
   disabledText: 525252
@@ -14,7 +14,7 @@ passcode:
     bottom: 000000
   button: 1c1c1d
 root:
-  statusBar: white
+  statusBar: $(white|white|black)
   tabBar:
     background: $base
     separator: 8c545458
@@ -24,7 +24,7 @@ root:
     selectedText: $pine
     badgeBackground: $love
     badgeStroke: 1c1c1d
-    badgeText: $text
+    badgeText: $($text|$text|$base)
   navBar:
     button: $text
     disabledButton: $muted
@@ -37,7 +37,7 @@ root:
     separator: 8c545458
     badgeFill: $love
     badgeStroke: 1c1c1d
-    badgeText: $text
+    badgeText: $($text|$text|$base)
     segmentedBg: 3a3b3d
     segmentedFg: 6f7075
     segmentedText: ffffff
@@ -81,29 +81,29 @@ list:
   disclosureActions:
     neutral1:
       bg: 666666
-      fg: $text
+      fg: $($text|$text|$base)
     neutral2:
       bg: $foam
-      fg: $text
+      fg: $($text|$text|$base)
     destructive:
       bg: $love
-      fg: $text
+      fg: $($text|$text|$base)
     constructive:
       bg: $pine
-      fg: $text
+      fg: $($text|$text|$base)
     accent:
       bg: $muted
-      fg: $text
+      fg: $($text|$text|$base)
     warning:
       bg: cd7800
-      fg: ffffff
+      fg: $($text|$text|$base)
     inactive:
       bg: $muted
-      fg: $text
+      fg: $($text|$text|$base)
   check:
     bg: $pine
     stroke: 4c$text
-    fg: $text
+    fg: $($text|$text|$base)
   controlSecondary: 7fffffff
   freeInputField:
     bg: 272728
@@ -146,9 +146,9 @@ chatList:
   failedFg: $text
   muteIcon: $muted
   unreadBadgeActiveBg: $love
-  unreadBadgeActiveText: $text
+  unreadBadgeActiveText: $($text|$text|$base)
   unreadBadgeInactiveBg: $muted
-  unreadBadgeInactiveText: $text
+  unreadBadgeInactiveText: $($text|$text|$base)
   reactionBadgeActiveBg: $love
   pinnedBadge: $pine
   pinnedSearchBar: $surface
@@ -179,7 +179,7 @@ chatList:
     top: 48484a
     bottom: 48484a
 chat:
-  defaultWallpaper: OaP-q5ggyEakAAAAp7bfAyT9NZs
+  defaultWallpaper: $(OaP-q5ggyEakAAAAp7bfAyT9NZs|OaP-q5ggyEakAAAAp7bfAyT9NZs|tUeXeZApMVEmBAAA9mBDRnxxWMg)
   animateMessageColors: false
   message:
     incoming:
@@ -442,7 +442,7 @@ chat:
     fg: dd0000
     badgeBg: 3e88f7
     badgeStroke: 3e88f7
-    badgeText: ffffff
+    badgeText: $($text|$text|$base)
 actionSheet:
   dim: 7f000000
   bgType: $appearance
