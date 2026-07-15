@@ -367,8 +367,8 @@ chat_topPanelTitle: $iris
 chat_unreadMessagesStartArrowIcon: $text
 chat_unreadMessagesStartBackground: $overlayB0
 chat_unreadMessagesStartText: $textDA
-chats_actionBackground: $pine
-chats_actionIcon: $text
+chats_actionBackground: $($pine|$pine|$rose)
+chats_actionIcon: $($text|$text|$surface)
 chats_actionMessage: $foam
 chats_actionPressedBackground: $pine99
 chats_actionUnreadBackground: #FFFFFF

@@ -367,8 +367,8 @@ chat_topPanelTitle: #907aa9
 chat_unreadMessagesStartArrowIcon: #575279
 chat_unreadMessagesStartBackground: #f2e9e1B0
 chat_unreadMessagesStartText: #575279DA
-chats_actionBackground: #286983
-chats_actionIcon: #575279
+chats_actionBackground: #d7827e
+chats_actionIcon: #fffaf3
 chats_actionMessage: #56949f
 chats_actionPressedBackground: #28698399
 chats_actionUnreadBackground: #FFFFFF
