@@ -7,13 +7,12 @@
 
 ## Usage
 
-1. Tap the following link: https://t.me/addtheme/rosepine_base
+1. Choose one of the following flavors:
+    - https://t.me/addtheme/rosepine_base
+    - https://t.me/addtheme/rosepine_moon
+    - https://t.me/addtheme/rosepine_dawn
 2. Open it in the Telegram mobile app
 3. Tap `Apply` to instantly apply the theme
-
-### Other flavors (iOS only)
-- https://t.me/addtheme/rosepine_dawn
-- https://t.me/addtheme/rosepine_moon
 
 ## Gallery
 
