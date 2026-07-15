@@ -33,4 +33,10 @@
 
 - [NECOdes](https://github.com/NECOtype)
 ---
-iOS theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom)
+<!-- BLOOM_BUILD_START -->
+This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
+
+```sh
+bloom build ./template.attheme --output ./android/ --prefix $ --format hex
+```
+<!-- BLOOM_BUILD_END -->
