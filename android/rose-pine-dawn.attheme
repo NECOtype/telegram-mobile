@@ -249,8 +249,8 @@ chat_outAudioSeekbarSelected: #FFFFFF4D
 chat_outAudioSelectedProgress: #FFFFFF4D
 chat_outAudioTitleText: #575279
 chat_outBroadcast: #46AA36
-chat_outBubble: #575279
-chat_outBubbleGradient: #575279
+chat_outBubble: #f2e9e1
+chat_outBubbleGradient: #f2e9e1
 chat_outBubbleGradientAnimated: #00000000
 chat_outBubbleGradientSelectedOverlay: #FFFFFF14
 chat_outBubbleLocationPlaceholder: #FFFFFF2E
@@ -658,7 +658,7 @@ undo_background: #f2e9e1
 undo_cancelColor: #b4637a
 undo_infoColor: #575279
 voipgroup_topPanelGray: #9893a5
-wallpaper: t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs
+wallpaper: t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg
 wallpaperFileOffset: #FFFFFF
 windowBackgroundCheckText: #575279
 windowBackgroundChecked: #686A99

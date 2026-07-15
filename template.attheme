@@ -249,8 +249,8 @@ chat_outAudioSeekbarSelected: #FFFFFF4D
 chat_outAudioSelectedProgress: #FFFFFF4D
 chat_outAudioTitleText: $text
 chat_outBroadcast: #46AA36
-chat_outBubble: #575279
-chat_outBubbleGradient: #575279
+chat_outBubble: $overlay
+chat_outBubbleGradient: $overlay
 chat_outBubbleGradientAnimated: #00000000
 chat_outBubbleGradientSelectedOverlay: #FFFFFF14
 chat_outBubbleLocationPlaceholder: #FFFFFF2E
@@ -658,7 +658,7 @@ undo_background: $overlay
 undo_cancelColor: $love
 undo_infoColor: $text
 voipgroup_topPanelGray: $muted
-wallpaper: t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs
+wallpaper: $(t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg)
 wallpaperFileOffset: #FFFFFF
 windowBackgroundCheckText: $text
 windowBackgroundChecked: #686A99

@@ -249,8 +249,8 @@ chat_outAudioSeekbarSelected: #FFFFFF4D
 chat_outAudioSelectedProgress: #FFFFFF4D
 chat_outAudioTitleText: #e0def4
 chat_outBroadcast: #46AA36
-chat_outBubble: #575279
-chat_outBubbleGradient: #575279
+chat_outBubble: #26233a
+chat_outBubbleGradient: #26233a
 chat_outBubbleGradientAnimated: #00000000
 chat_outBubbleGradientSelectedOverlay: #FFFFFF14
 chat_outBubbleLocationPlaceholder: #FFFFFF2E
