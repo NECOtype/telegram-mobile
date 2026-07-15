@@ -505,7 +505,7 @@ dialogTopBackground: $muted
 dialog_inlineProgress: #6B7378
 dialog_inlineProgressBackground: #191923
 dialog_liveLocationProgress: #FF00FF
-divider: #2A273F
+divider: $overlay
 emptyListPlaceholder: $muted
 fastScrollActive: #FF0000
 fastScrollInactive: $overlay

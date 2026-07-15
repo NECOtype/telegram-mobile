@@ -505,7 +505,7 @@ dialogTopBackground: #6e6a86
 dialog_inlineProgress: #6B7378
 dialog_inlineProgressBackground: #191923
 dialog_liveLocationProgress: #FF00FF
-divider: #2A273F
+divider: #26233a
 emptyListPlaceholder: #6e6a86
 fastScrollActive: #FF0000
 fastScrollInactive: #26233a
