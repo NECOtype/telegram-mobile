@@ -1,11 +1,9 @@
-android-template := ./template.attheme
-ios-template := ./template.tgios-theme
+android-template := ./template-android
+ios-template := ./template-ios
 
-build: build-ios
-
-build-ios: build-android
+build-ios:
 	echo "Buidling iOS themes..."
-	bloom build $(ios-template) --plain -o ./ios/
+	bloom build $(ios-template) --format hex -o ./ios/
 
 build-android:
 	echo "Buidling Android themes..."
