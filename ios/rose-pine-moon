@@ -1,6 +1,7 @@
 name: Rosé Pine Moon
 shortname: rosepine_moon
 dark: true
+basedOn: night
 wallpaper: t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs
 actionSheet_bgType: dark
 actionSheet_checkContent: #232136
@@ -383,7 +384,7 @@ notification_primaryText: #e0def4
 passcode_bg_bottom: #232136
 passcode_bg_top: #232136
 passcode_button: #393552
-root_keyboard: light
+root_keyboard: dark
 root_navBar_accentText: #c4a7e7
 root_navBar_background: #232136
 root_navBar_badgeFill: #eb6f92

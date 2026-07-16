@@ -1,6 +1,7 @@
 name: Rosé Pine Dawn
 shortname: rosepine_dawn
 dark: false
+basedOn: light
 wallpaper: t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg
 actionSheet_bgType: light
 actionSheet_checkContent: #faf4ed

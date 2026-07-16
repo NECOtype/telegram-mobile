@@ -1,6 +1,7 @@
 name: Rosé Pine
 shortname: rosepine_base
 dark: true
+basedOn: night
 wallpaper: t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs
 actionSheet_bgType: dark
 actionSheet_checkContent: #191724
@@ -383,7 +384,7 @@ notification_primaryText: #e0def4
 passcode_bg_bottom: #191724
 passcode_bg_top: #191724
 passcode_button: #26233a
-root_keyboard: light
+root_keyboard: dark
 root_navBar_accentText: #c4a7e7
 root_navBar_background: #191724
 root_navBar_badgeFill: #eb6f92
