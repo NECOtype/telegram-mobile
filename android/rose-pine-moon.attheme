@@ -10,7 +10,7 @@ actionBarActionModeReactionDot: #6e6a86
 actionBarActionModeReactionText: #6e6a86
 actionBarBrowser: #232136
 actionBarDefault: #232136
-actionBarDefaultArchived: #363443
+actionBarDefaultArchived: #FF0000
 actionBarDefaultArchivedIcon: #e0def4
 actionBarDefaultArchivedSearch: #e0def4
 actionBarDefaultArchivedSelector: #6e6a86
@@ -58,7 +58,7 @@ avatar_nameInMessageRed: #eb6f92
 avatar_nameInMessageViolet: #c4a7e7
 avatar_subtitleInProfileBlue: #6e6a86
 avatar_text: #e0def4
-bot_loadingIcon: #00FF00
+bot_loadingIcon: #f6c177
 calls_callReceivedGreenIcon: #9ccfd8
 calls_callReceivedRedIcon: #eb6f92
 changephoneinfo_image2: #FF00FF
@@ -220,9 +220,9 @@ chat_mediaViews: #908caa
 chat_messageLinkIn: #eb6f92
 chat_messageLinkOut: #eb6f92
 chat_messagePanelBackground: #2a273fEE
-chat_messagePanelCancelInlineBot: #E8E8F964
+chat_messagePanelCancelInlineBot: #eb6f92
 chat_messagePanelCursor: #c4a7e7
-chat_messagePanelHint: #6e6a866E
+chat_messagePanelHint: #6e6a86
 chat_messagePanelIcons: #c4a7e7AA
 chat_messagePanelPressedSend: #FFFFFF
 chat_messagePanelSend: #c4a7e7
@@ -275,12 +275,12 @@ chat_outForwardedNameText: #e0def4
 chat_outInstant: #e0def4
 chat_outInstantSelected: #e0def4
 chat_outLinkSelectBackground: #FFF9F333
-chat_outLoader: #FFFFFF
+chat_outLoader: #3e8fb0
 chat_outLoaderPhoto: #85BF78
 chat_outLoaderPhotoIcon: #DAF5C3
 chat_outLoaderPhotoIconSelected: #C0E8A4
 chat_outLoaderPhotoSelected: #7DB870
-chat_outLoaderSelected: #FFFFFF
+chat_outLoaderSelected: #3e8fb0
 chat_outLocationBackground: #DAF5C3
 chat_outLocationIcon: #FFFFFF
 chat_outMediaIcon: #c4a7e7
@@ -381,7 +381,7 @@ chats_archivePullDownBackgroundActive: #3e8fb0
 chats_archiveText: #e0def4
 chats_attachMessage: #9ccfd8
 chats_date: #908caa
-chats_draft: #f6c177D9
+chats_draft: #f6c177
 chats_mentionIcon: #e0def4
 chats_menuBackground: #2a273f
 chats_menuCloud: #FFFFFF
@@ -395,7 +395,7 @@ chats_menuPhoneCats: #eb6f92
 chats_menuTopBackground: #232136
 chats_menuTopBackgroundCats: #232136
 chats_menuTopShadow: #181818D5
-chats_message: #B8B7C9
+chats_message: #e0def4
 chats_messageArchived: #6e6a86
 chats_message_threeLines: #B8B7C9
 chats_muteIcon: #6e6a86
@@ -408,7 +408,7 @@ chats_nameMessageArchived_threeLines: #B8B7C9
 chats_nameMessage_threeLines: #9ccfd8
 chats_onlineCircle: #9ccfd8
 chats_pinnedIcon: #3e8fb0
-chats_pinnedOverlay: #FFFFFF05
+chats_pinnedOverlay: #44415a
 chats_secretIcon: #f6c177
 chats_secretName: #f6c177
 chats_sentCheck: #9ccfd8
@@ -440,10 +440,10 @@ color_blue: #3e8fb0
 color_green: #9ccfd8
 color_lightblue: #3C78EC
 color_lightgreen: #8FCF39
-color_orange: #f6c177
+color_orange: #ea9a97
 color_purple: #c4a7e7
 color_red: #eb6f92
-color_yellow: #ea9a97
+color_yellow: #f6c177
 contacts_inviteBackground: #6e6a86
 contacts_inviteText: #6e6a86
 contextProgressInner1: #87869664
@@ -473,8 +473,8 @@ dialogGrayLine: #100F11
 dialogIcon: #c4a7e7
 dialogInputField: #6e6a86
 dialogInputFieldActivated: #c4a7e7
-dialogLineProgress: #6e6a86
-dialogLineProgressBackground: #0000FF
+dialogLineProgress: #3e8fb0
+dialogLineProgressBackground: #6e6a86
 dialogLinkSelection: #888ACC33
 dialogProgressCircle: #527DA3
 dialogRadioBackground: #3e8fb0
@@ -523,7 +523,7 @@ files_folderIcon: #e0def4
 files_folderIconBackground: #3e8fb0
 files_iconText: #e0def4
 gift_ribbon: #F000FF
-gift_ribbon_soldout: #00FF00
+gift_ribbon_soldout: #eb6f92
 graySection: #393552
 groupcreate_cursor: #c4a7e7
 groupcreate_hintText: #6e6a86
@@ -581,7 +581,7 @@ player_buttonActive: #3e8fb0
 player_placeholder: #FF0000
 player_placeholderBackground: #F0F0F0
 player_progress: #3e8fb0
-player_progressBackground: #908caa
+player_progressBackground: #6e6a86
 player_time: #908caa
 premiumCoinGradient1: #FF00FF
 premiumGradient1: #eb6f92
