@@ -52,7 +52,7 @@ chatList_pinnedArchiveAvatar_background_bottom: #9ccfd8
 chatList_pinnedArchiveAvatar_background_top: #c4a7e7
 chatList_pinnedArchiveAvatar_foreground: #191724
 chatList_pinnedBadge: #31748f
-chatList_pinnedItemBg: #21202e
+chatList_pinnedItemBg: #1f1d2e
 chatList_pinnedItemHighlightedBg: #403d52
 chatList_pinnedSearchBar: #1f1d2e
 chatList_reactionBadgeActiveBg: #eb6f92

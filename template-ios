@@ -52,7 +52,7 @@ chatList_pinnedArchiveAvatar_background_bottom: $foam
 chatList_pinnedArchiveAvatar_background_top: $iris
 chatList_pinnedArchiveAvatar_foreground: $base
 chatList_pinnedBadge: $pine
-chatList_pinnedItemBg: $highlightLow
+chatList_pinnedItemBg: $surface
 chatList_pinnedItemHighlightedBg: $highlightMed
 chatList_pinnedSearchBar: $surface
 chatList_reactionBadgeActiveBg: $love
