@@ -60,7 +60,7 @@ chatList_regularSearchBar: #1f1d2e
 chatList_secretIcon: #f6c177
 chatList_secretTitle: #f6c177
 chatList_sectionHeaderBg: #FF00FF
-chatList_sectionHeaderText: #FF00FF
+chatList_sectionHeaderText: #c4a7e7
 chatList_storySeen_bottom: #6e6a86
 chatList_storySeen_top: #6e6a86
 chatList_storyUnseenPrivate_bottom: #ebbcba
@@ -70,7 +70,7 @@ chatList_storyUnseen_top: #31748f
 chatList_title: #e0def4
 chatList_unpinnedArchiveAvatar_background_bottom: #6e6a86
 chatList_unpinnedArchiveAvatar_background_top: #6e6a86
-chatList_unpinnedArchiveAvatar_foreground: #191724
+chatList_unpinnedArchiveAvatar_foreground: #e0def4
 chatList_unreadBadgeActiveBg: #eb6f92
 chatList_unreadBadgeActiveText: #e0def4
 chatList_unreadBadgeInactiveBg: #6e6a86
@@ -78,12 +78,12 @@ chatList_unreadBadgeInactiveText: #e0def4
 chatList_verifiedIconBg: #31748f
 chatList_verifiedIconFg: #e0def4
 chat_animateMessageColors: false
-chat_historyNav_badgeBg: #31748f
-chat_historyNav_badgeStroke: #31748f
-chat_historyNav_badgeText: #e0def4
-chat_historyNav_bg: #191724
-chat_historyNav_fg: #eb6f92
-chat_historyNav_stroke: #403d528C
+chat_historyNav_badgeBg: #FF00FF
+chat_historyNav_badgeStroke: #FF00FF
+chat_historyNav_badgeText: #FF00FF
+chat_historyNav_bg: #FF00FF
+chat_historyNav_fg: #FF00FF
+chat_historyNav_stroke: #FF00FF8C
 chat_inputButtonPanel_buttonBg: #1f1d2eD8
 chat_inputButtonPanel_buttonHighlight: #1917240C
 chat_inputButtonPanel_buttonHighlightedBg: #403d52B2
