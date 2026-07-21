@@ -5,7 +5,7 @@ basedOn: night
 wallpaper: t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs
 actionSheet_bgType: dark
 actionSheet_checkContent: #191724
-actionSheet_controlAccent: #ff00ff
+actionSheet_controlAccent: #31748f
 actionSheet_destructiveActionText: #eb6f92
 actionSheet_dim: #ff00ff
 actionSheet_disabledActionText: #6e6a86
@@ -80,7 +80,7 @@ chatList_verifiedIconFg: #e0def4
 chat_animateMessageColors: false
 chat_historyNav_badgeBg: #FF00FF
 chat_historyNav_badgeStroke: #FF00FF
-chat_historyNav_badgeText: #FF00FF
+chat_historyNav_badgeText: #e0def4
 chat_historyNav_bg: #FF00FF
 chat_historyNav_fg: #FF00FF
 chat_historyNav_stroke: #FF00FF8C
@@ -207,7 +207,7 @@ chat_message_incoming_scam: #eb6f92
 chat_message_incoming_secondaryText: #6e6a86
 chat_message_incoming_textHighlight: #f6c177
 chat_message_incoming_textSelection: #31748f33
-chat_message_incoming_textSelectionKnob: #31748f
+chat_message_incoming_textSelectionKnob: #c4a7e7
 chat_message_infoLinkText: #31748f
 chat_message_infoPrimaryText: #e0def4
 chat_message_mediaDateAndStatusBg: #1917244C
@@ -315,7 +315,7 @@ intro_dot: #908caa
 intro_primaryText: #e0def4
 intro_startButton: #31748f
 intro_statusBar: white
-list_accent: #31748f
+list_accent: #c4a7e7
 list_blocksBg: #191724
 list_blocksSeparator: #403d52
 list_check_bg: #31748f

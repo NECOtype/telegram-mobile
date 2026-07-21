@@ -5,7 +5,7 @@ basedOn: light
 wallpaper: t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg
 actionSheet_bgType: light
 actionSheet_checkContent: #faf4ed
-actionSheet_controlAccent: #ff00ff
+actionSheet_controlAccent: #d7827e
 actionSheet_destructiveActionText: #b4637a
 actionSheet_dim: #ff00ff
 actionSheet_disabledActionText: #9893a5
@@ -80,7 +80,7 @@ chatList_verifiedIconFg: #faf4ed
 chat_animateMessageColors: false
 chat_historyNav_badgeBg: #FF00FF
 chat_historyNav_badgeStroke: #FF00FF
-chat_historyNav_badgeText: #FF00FF
+chat_historyNav_badgeText: #faf4ed
 chat_historyNav_bg: #FF00FF
 chat_historyNav_fg: #FF00FF
 chat_historyNav_stroke: #FF00FF8C
@@ -189,12 +189,12 @@ chat_message_incoming_fileDuration: #797593
 chat_message_incoming_fileTitle: #286983
 chat_message_incoming_linkHighlight: #b4637a7F
 chat_message_incoming_linkText: #b4637a
-chat_message_incoming_mediaActiveControl: #286983
+chat_message_incoming_mediaActiveControl: #d7827e
 chat_message_incoming_mediaControlInnerBg: #fffaf3
-chat_message_incoming_mediaInactiveControl: #28698366
+chat_message_incoming_mediaInactiveControl: #d7827e66
 chat_message_incoming_mediaPlaceholder: #f2e9e1
 chat_message_incoming_pendingActivity: #9893a57F
-chat_message_incoming_polls_bar: #286983
+chat_message_incoming_polls_bar: #d7827e
 chat_message_incoming_polls_barIconForeground: #faf4ed
 chat_message_incoming_polls_barNegative: #b4637a
 chat_message_incoming_polls_barPositive: #56949f
@@ -207,7 +207,7 @@ chat_message_incoming_scam: #b4637a
 chat_message_incoming_secondaryText: #9893a5
 chat_message_incoming_textHighlight: #ea9d34
 chat_message_incoming_textSelection: #28698333
-chat_message_incoming_textSelectionKnob: #286983
+chat_message_incoming_textSelectionKnob: #907aa9
 chat_message_infoLinkText: #286983
 chat_message_infoPrimaryText: #575279
 chat_message_mediaDateAndStatusBg: #faf4ed4C
@@ -216,8 +216,8 @@ chat_message_mediaHighlightOverlay: #fffaf399
 chat_message_mediaOverlayControl_bg: #faf4ed99
 chat_message_mediaOverlayControl_fg: #575279
 chat_message_outgoingCheck: #56949f
-chat_message_outgoing_accentControl: #286983
-chat_message_outgoing_accentText: #286983
+chat_message_outgoing_accentControl: #d7827e
+chat_message_outgoing_accentText: #d7827e
 chat_message_outgoing_actionButtonsBg_withWp: #f2e9e17F
 chat_message_outgoing_actionButtonsBg_withoutWp: #f2e9e17F
 chat_message_outgoing_actionButtonsStroke_withWp: #dfdad92D
@@ -315,10 +315,10 @@ intro_dot: #797593
 intro_primaryText: #575279
 intro_startButton: #286983
 intro_statusBar: black
-list_accent: #286983
+list_accent: #907aa9
 list_blocksBg: #faf4ed
 list_blocksSeparator: #dfdad9
-list_check_bg: #286983
+list_check_bg: #d7827e
 list_check_fg: #faf4ed
 list_check_stroke: #5752794C
 list_controlSecondary: #faf4ed7F
