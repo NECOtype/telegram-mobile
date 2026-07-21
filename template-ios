@@ -80,7 +80,7 @@ chatList_verifiedIconFg: $($text|$text|$base)
 chat_animateMessageColors: false
 chat_historyNav_badgeBg: #FF00FF
 chat_historyNav_badgeStroke: #FF00FF
-chat_historyNav_badgeText: #FF00FF
+chat_historyNav_badgeText: $($text|$text|$base)
 chat_historyNav_bg: #FF00FF
 chat_historyNav_fg: #FF00FF
 chat_historyNav_stroke: #FF00FF8C
