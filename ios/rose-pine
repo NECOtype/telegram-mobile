@@ -7,7 +7,7 @@ actionSheet_bgType: dark
 actionSheet_checkContent: #191724
 actionSheet_controlAccent: #31748f
 actionSheet_destructiveActionText: #eb6f92
-actionSheet_dim: #ff00ff
+actionSheet_dim: #6e6a8655
 actionSheet_disabledActionText: #6e6a86
 actionSheet_inputBg: #191724
 actionSheet_inputBorder: #403d52
@@ -22,7 +22,7 @@ actionSheet_opaqueItemHighlightedBg: #403d52
 actionSheet_opaqueItemSeparator: #403d52
 actionSheet_primaryText: #e0def4
 actionSheet_secondaryText: #908caa
-actionSheet_standardActionText: #ff00ff
+actionSheet_standardActionText: #e0def4
 chart_barStrongLines: #403d5272
 chart_detailsArrow: #6e6a86
 chart_detailsText: #e0def4

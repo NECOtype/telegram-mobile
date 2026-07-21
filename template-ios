@@ -7,7 +7,7 @@ actionSheet_bgType: $appearance
 actionSheet_checkContent: $base
 actionSheet_controlAccent: $($pine|$pine|$rose)
 actionSheet_destructiveActionText: $love
-actionSheet_dim: #ff00ff
+actionSheet_dim: $muted55
 actionSheet_disabledActionText: $muted
 actionSheet_inputBg: $base
 actionSheet_inputBorder: $highlightMed
@@ -22,7 +22,7 @@ actionSheet_opaqueItemHighlightedBg: $highlightMed
 actionSheet_opaqueItemSeparator: $highlightMed
 actionSheet_primaryText: $text
 actionSheet_secondaryText: $subtle
-actionSheet_standardActionText: #ff00ff
+actionSheet_standardActionText: $text
 chart_barStrongLines: $highlightMed72
 chart_detailsArrow: $muted
 chart_detailsText: $text
