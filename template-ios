@@ -5,7 +5,7 @@ basedOn: $(night|night|light)
 wallpaper: $(t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg)
 actionSheet_bgType: $appearance
 actionSheet_checkContent: $base
-actionSheet_controlAccent: #ff00ff
+actionSheet_controlAccent: $($pine|$pine|$rose)
 actionSheet_destructiveActionText: $love
 actionSheet_dim: #ff00ff
 actionSheet_disabledActionText: $muted
@@ -189,12 +189,12 @@ chat_message_incoming_fileDuration: $subtle
 chat_message_incoming_fileTitle: $pine
 chat_message_incoming_linkHighlight: $love7F
 chat_message_incoming_linkText: $love
-chat_message_incoming_mediaActiveControl: $pine
+chat_message_incoming_mediaActiveControl: $($pine|$pine|$rose)
 chat_message_incoming_mediaControlInnerBg: $surface
-chat_message_incoming_mediaInactiveControl: $pine66
+chat_message_incoming_mediaInactiveControl: $($pine|$pine|$rose)66
 chat_message_incoming_mediaPlaceholder: $overlay
 chat_message_incoming_pendingActivity: $muted7F
-chat_message_incoming_polls_bar: $pine
+chat_message_incoming_polls_bar: $($pine|$pine|$rose)
 chat_message_incoming_polls_barIconForeground: $base
 chat_message_incoming_polls_barNegative: $love
 chat_message_incoming_polls_barPositive: $foam
@@ -207,7 +207,7 @@ chat_message_incoming_scam: $love
 chat_message_incoming_secondaryText: $muted
 chat_message_incoming_textHighlight: $gold
 chat_message_incoming_textSelection: $pine33
-chat_message_incoming_textSelectionKnob: $pine
+chat_message_incoming_textSelectionKnob: $iris
 chat_message_infoLinkText: $pine
 chat_message_infoPrimaryText: $text
 chat_message_mediaDateAndStatusBg: $base4C
@@ -216,8 +216,8 @@ chat_message_mediaHighlightOverlay: $surface99
 chat_message_mediaOverlayControl_bg: $base99
 chat_message_mediaOverlayControl_fg: $text
 chat_message_outgoingCheck: $foam
-chat_message_outgoing_accentControl: $pine
-chat_message_outgoing_accentText: $pine
+chat_message_outgoing_accentControl: $($pine|$pine|$rose)
+chat_message_outgoing_accentText: $($pine|$pine|$rose)
 chat_message_outgoing_actionButtonsBg_withWp: $overlay7F
 chat_message_outgoing_actionButtonsBg_withoutWp: $overlay7F
 chat_message_outgoing_actionButtonsStroke_withWp: $highlightMed2D
@@ -315,10 +315,10 @@ intro_dot: $subtle
 intro_primaryText: $text
 intro_startButton: $pine
 intro_statusBar: $(white|white|black)
-list_accent: $pine
+list_accent: $iris
 list_blocksBg: $base
 list_blocksSeparator: $highlightMed
-list_check_bg: $pine
+list_check_bg: $($pine|$pine|$rose)
 list_check_fg: $($text|$text|$base)
 list_check_stroke: $text4C
 list_controlSecondary: $base7F
