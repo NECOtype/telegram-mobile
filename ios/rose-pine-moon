@@ -2,7 +2,6 @@ name: Rosé Pine Moon
 shortname: rosepine_moon
 dark: true
 basedOn: night
-wallpaper: t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs
 actionSheet_bgType: dark
 actionSheet_checkContent: #232136
 actionSheet_controlAccent: #3e8fb0
@@ -300,6 +299,7 @@ chat_serviceMessage_dateText_withoutWp: #e0def4
 chat_serviceMessage_unreadBarBg: #393552AA
 chat_serviceMessage_unreadBarStroke: #393552
 chat_serviceMessage_unreadBarText: #e0def4
+wallpaper: t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs
 contextMenu_background: #2a273f
 contextMenu_destructive: #eb6f92
 contextMenu_dim: #00000022
@@ -367,7 +367,7 @@ list_plainBg: #232136
 list_plainSeparator: #44415a8C
 list_primaryText: #e0def4
 list_scrollIndicator: #2321367F
-list_secondaryText: #c4a7e7
+list_secondaryText: #6e6a86
 list_sectionHeaderText: #c4a7e7
 list_switch_content: #9ccfd8
 list_switch_frame: #6e6a86
@@ -388,14 +388,14 @@ root_keyboard: dark
 root_navBar_accentText: #c4a7e7
 root_navBar_background: #232136
 root_navBar_badgeFill: #eb6f92
-root_navBar_badgeStroke: #232136
+root_navBar_badgeStroke: #e0def4
 root_navBar_badgeText: #e0def4
 root_navBar_button: #e0def4
 root_navBar_control: #908caa
 root_navBar_disabledButton: #6e6a86
 root_navBar_opaqueBackground: #232136
 root_navBar_primaryText: #e0def4
-root_navBar_secondaryText: #908caa7F
+root_navBar_secondaryText: #6e6a86
 root_navBar_segmentedBg: #393552
 root_navBar_segmentedDivider: #44415a
 root_navBar_segmentedFg: #908caa

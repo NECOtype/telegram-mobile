@@ -2,7 +2,6 @@ name: Rosé Pine Dawn
 shortname: rosepine_dawn
 dark: false
 basedOn: light
-wallpaper: t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg
 actionSheet_bgType: light
 actionSheet_checkContent: #faf4ed
 actionSheet_controlAccent: #d7827e
@@ -300,6 +299,7 @@ chat_serviceMessage_dateText_withoutWp: #575279
 chat_serviceMessage_unreadBarBg: #f2e9e1AA
 chat_serviceMessage_unreadBarStroke: #f2e9e1
 chat_serviceMessage_unreadBarText: #575279
+wallpaper: t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg
 contextMenu_background: #fffaf3
 contextMenu_destructive: #b4637a
 contextMenu_dim: #00000022
@@ -367,7 +367,7 @@ list_plainBg: #faf4ed
 list_plainSeparator: #dfdad98C
 list_primaryText: #575279
 list_scrollIndicator: #faf4ed7F
-list_secondaryText: #907aa9
+list_secondaryText: #9893a5
 list_sectionHeaderText: #907aa9
 list_switch_content: #56949f
 list_switch_frame: #9893a5
@@ -395,7 +395,7 @@ root_navBar_control: #797593
 root_navBar_disabledButton: #9893a5
 root_navBar_opaqueBackground: #faf4ed
 root_navBar_primaryText: #575279
-root_navBar_secondaryText: #7975937F
+root_navBar_secondaryText: #9893a5
 root_navBar_segmentedBg: #f2e9e1
 root_navBar_segmentedDivider: #dfdad9
 root_navBar_segmentedFg: #797593
