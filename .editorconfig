@@ -1,0 +1,11 @@
+# https://editorconfig.org
+root = true
+
+[makefile]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = tab
+
+[*.md]
+trim_trailing_whitespace = false
