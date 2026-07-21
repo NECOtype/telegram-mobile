@@ -250,9 +250,9 @@ chat_message_outgoing_fileDuration: $subtle
 chat_message_outgoing_fileTitle: $pine
 chat_message_outgoing_linkHighlight: $love7F
 chat_message_outgoing_linkText: $love
-chat_message_outgoing_mediaActiveControl: $pine
+chat_message_outgoing_mediaActiveControl: $($pine|$pine|$rose)
 chat_message_outgoing_mediaControlInnerBg: $overlay
-chat_message_outgoing_mediaInactiveControl: $pine7F
+chat_message_outgoing_mediaInactiveControl: $($pine|$pine|$rose)7F
 chat_message_outgoing_mediaPlaceholder: $base33
 chat_message_outgoing_pendingActivity: $muted7F
 chat_message_outgoing_polls_bar: $pine

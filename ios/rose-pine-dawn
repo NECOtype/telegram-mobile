@@ -250,9 +250,9 @@ chat_message_outgoing_fileDuration: #797593
 chat_message_outgoing_fileTitle: #286983
 chat_message_outgoing_linkHighlight: #b4637a7F
 chat_message_outgoing_linkText: #b4637a
-chat_message_outgoing_mediaActiveControl: #286983
+chat_message_outgoing_mediaActiveControl: #d7827e
 chat_message_outgoing_mediaControlInnerBg: #f2e9e1
-chat_message_outgoing_mediaInactiveControl: #2869837F
+chat_message_outgoing_mediaInactiveControl: #d7827e7F
 chat_message_outgoing_mediaPlaceholder: #faf4ed33
 chat_message_outgoing_pendingActivity: #9893a57F
 chat_message_outgoing_polls_bar: #286983
