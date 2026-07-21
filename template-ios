@@ -2,7 +2,6 @@ name: $name
 shortname: rosepine_$(base|moon|dawn)
 dark: $(true|true|false)
 basedOn: $(night|night|light)
-wallpaper: $(t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg)
 actionSheet_bgType: $appearance
 actionSheet_checkContent: $base
 actionSheet_controlAccent: $($pine|$pine|$rose)
@@ -300,6 +299,7 @@ chat_serviceMessage_dateText_withoutWp: $text
 chat_serviceMessage_unreadBarBg: $overlayAA
 chat_serviceMessage_unreadBarStroke: $overlay
 chat_serviceMessage_unreadBarText: $text
+wallpaper: $(t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/OaP-q5ggyEakAAAAp7bfAyT9NZs|t.me/bg/tUeXeZApMVEmBAAA9mBDRnxxWMg)
 contextMenu_background: $surface
 contextMenu_destructive: $love
 contextMenu_dim: #00000022
@@ -367,7 +367,7 @@ list_plainBg: $base
 list_plainSeparator: $highlightMed8C
 list_primaryText: $text
 list_scrollIndicator: $base7F
-list_secondaryText: $iris
+list_secondaryText: $muted
 list_sectionHeaderText: $iris
 list_switch_content: $foam
 list_switch_frame: $muted
@@ -388,14 +388,14 @@ root_keyboard: $appearance
 root_navBar_accentText: $iris
 root_navBar_background: $base
 root_navBar_badgeFill: $love
-root_navBar_badgeStroke: $base
+root_navBar_badgeStroke: $($text|$text|$base)
 root_navBar_badgeText: $($text|$text|$base)
 root_navBar_button: $text
 root_navBar_control: $subtle
 root_navBar_disabledButton: $muted
 root_navBar_opaqueBackground: $base
 root_navBar_primaryText: $text
-root_navBar_secondaryText: $subtle7F
+root_navBar_secondaryText: $muted
 root_navBar_segmentedBg: $overlay
 root_navBar_segmentedDivider: $highlightMed
 root_navBar_segmentedFg: $subtle
