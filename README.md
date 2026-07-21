@@ -7,7 +7,7 @@
 
 ## Usage
 
-1. Choose one of the following flavors:
+1. Choose one of the following variants:
     - https://t.me/addtheme/rosepine_base
     - https://t.me/addtheme/rosepine_moon
     - https://t.me/addtheme/rosepine_dawn
