@@ -144,8 +144,8 @@ chat_inBubbleLocationPlaceholder: #FF0000
 chat_inBubbleSelected: $overlay
 chat_inBubbleShadow: #000000DA
 chat_inCodeBackground: $subtle
-chat_inContactBackground: $pine
-chat_inContactIcon: #FFFFFF
+chat_inContactBackground: $($pine|$pine|$rose)
+chat_inContactIcon: $($text|$text|$base)
 chat_inContactNameText: $text
 chat_inContactPhoneSelectedText: $text
 chat_inContactPhoneText: $text
@@ -170,8 +170,8 @@ chat_inLoaderPhotoSelected: #A2B5C7
 chat_inLoaderSelected: $pine
 chat_inLocationBackground: #3A3A4B
 chat_inLocationIcon: $text
-chat_inMediaIcon: $text
-chat_inMediaIconSelected: $text
+chat_inMediaIcon: $($text|$text|$base)
+chat_inMediaIconSelected: $($text|$text|$base)
 chat_inMenu: $subtle
 chat_inMenuSelected: $subtle
 chat_inPreviewInstantSelectedText: #3079B5
@@ -316,9 +316,9 @@ chat_outVenueInfoText: #EEEEEE
 chat_outViaBotNameText: $rose
 chat_outViews: #FFFFFF
 chat_outViewsSelected: #FFFFFF
-chat_outVoiceSeekbar: #FFFFFF4D
-chat_outVoiceSeekbarFill: #FFFFFF
-chat_outVoiceSeekbarSelected: #FFFFFF4D
+chat_outVoiceSeekbar: $muted
+chat_outVoiceSeekbarFill: $($pine|$pine|$rose)
+chat_outVoiceSeekbarSelected: $($pine|$pine|$rose)
 chat_previewDurationText: $text
 chat_previewGameText: $text
 chat_recordTime: $subtle

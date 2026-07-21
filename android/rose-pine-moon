@@ -145,7 +145,7 @@ chat_inBubbleSelected: #393552
 chat_inBubbleShadow: #000000DA
 chat_inCodeBackground: #908caa
 chat_inContactBackground: #3e8fb0
-chat_inContactIcon: #FFFFFF
+chat_inContactIcon: #e0def4
 chat_inContactNameText: #e0def4
 chat_inContactPhoneSelectedText: #e0def4
 chat_inContactPhoneText: #e0def4
@@ -316,9 +316,9 @@ chat_outVenueInfoText: #EEEEEE
 chat_outViaBotNameText: #ea9a97
 chat_outViews: #FFFFFF
 chat_outViewsSelected: #FFFFFF
-chat_outVoiceSeekbar: #FFFFFF4D
-chat_outVoiceSeekbarFill: #FFFFFF
-chat_outVoiceSeekbarSelected: #FFFFFF4D
+chat_outVoiceSeekbar: #6e6a86
+chat_outVoiceSeekbarFill: #3e8fb0
+chat_outVoiceSeekbarSelected: #3e8fb0
 chat_previewDurationText: #e0def4
 chat_previewGameText: #e0def4
 chat_recordTime: #908caa

@@ -144,8 +144,8 @@ chat_inBubbleLocationPlaceholder: #FF0000
 chat_inBubbleSelected: #f2e9e1
 chat_inBubbleShadow: #000000DA
 chat_inCodeBackground: #797593
-chat_inContactBackground: #286983
-chat_inContactIcon: #FFFFFF
+chat_inContactBackground: #d7827e
+chat_inContactIcon: #faf4ed
 chat_inContactNameText: #575279
 chat_inContactPhoneSelectedText: #575279
 chat_inContactPhoneText: #575279
@@ -170,8 +170,8 @@ chat_inLoaderPhotoSelected: #A2B5C7
 chat_inLoaderSelected: #286983
 chat_inLocationBackground: #3A3A4B
 chat_inLocationIcon: #575279
-chat_inMediaIcon: #575279
-chat_inMediaIconSelected: #575279
+chat_inMediaIcon: #faf4ed
+chat_inMediaIconSelected: #faf4ed
 chat_inMenu: #797593
 chat_inMenuSelected: #797593
 chat_inPreviewInstantSelectedText: #3079B5
@@ -316,9 +316,9 @@ chat_outVenueInfoText: #EEEEEE
 chat_outViaBotNameText: #d7827e
 chat_outViews: #FFFFFF
 chat_outViewsSelected: #FFFFFF
-chat_outVoiceSeekbar: #FFFFFF4D
-chat_outVoiceSeekbarFill: #FFFFFF
-chat_outVoiceSeekbarSelected: #FFFFFF4D
+chat_outVoiceSeekbar: #9893a5
+chat_outVoiceSeekbarFill: #d7827e
+chat_outVoiceSeekbarSelected: #d7827e
 chat_previewDurationText: #575279
 chat_previewGameText: #575279
 chat_recordTime: #797593
