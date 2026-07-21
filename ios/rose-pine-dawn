@@ -66,7 +66,7 @@ chatList_storySeen_top: #9893a5
 chatList_storyUnseenPrivate_bottom: #d7827e
 chatList_storyUnseenPrivate_top: #d7827e
 chatList_storyUnseen_bottom: #d7827e
-chatList_storyUnseen_top: #286983
+chatList_storyUnseen_top: #d7827e
 chatList_title: #575279
 chatList_unpinnedArchiveAvatar_background_bottom: #9893a5
 chatList_unpinnedArchiveAvatar_background_top: #9893a5
@@ -415,7 +415,7 @@ root_tabBar_badgeBackground: #b4637a
 root_tabBar_badgeStroke: #faf4ed
 root_tabBar_badgeText: #faf4ed
 root_tabBar_icon: #575279
-root_tabBar_selectedIcon: #286983
-root_tabBar_selectedText: #286983
+root_tabBar_selectedIcon: #d7827e
+root_tabBar_selectedText: #d7827e
 root_tabBar_separator: #dfdad98C
 root_tabBar_text: #575279

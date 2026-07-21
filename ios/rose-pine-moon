@@ -63,9 +63,9 @@ chatList_sectionHeaderBg: #FF00FF
 chatList_sectionHeaderText: #c4a7e7
 chatList_storySeen_bottom: #6e6a86
 chatList_storySeen_top: #6e6a86
-chatList_storyUnseenPrivate_bottom: #ea9a97
-chatList_storyUnseenPrivate_top: #ea9a97
-chatList_storyUnseen_bottom: #ea9a97
+chatList_storyUnseenPrivate_bottom: #3e8fb0
+chatList_storyUnseenPrivate_top: #3e8fb0
+chatList_storyUnseen_bottom: #3e8fb0
 chatList_storyUnseen_top: #3e8fb0
 chatList_title: #e0def4
 chatList_unpinnedArchiveAvatar_background_bottom: #6e6a86

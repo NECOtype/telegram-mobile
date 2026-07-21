@@ -63,10 +63,10 @@ chatList_sectionHeaderBg: #FF00FF
 chatList_sectionHeaderText: $iris
 chatList_storySeen_bottom: $muted
 chatList_storySeen_top: $muted
-chatList_storyUnseenPrivate_bottom: $rose
-chatList_storyUnseenPrivate_top: $rose
-chatList_storyUnseen_bottom: $rose
-chatList_storyUnseen_top: $pine
+chatList_storyUnseenPrivate_bottom: $($pine|$pine|$rose)
+chatList_storyUnseenPrivate_top: $($pine|$pine|$rose)
+chatList_storyUnseen_bottom: $($pine|$pine|$rose)
+chatList_storyUnseen_top: $($pine|$pine|$rose)
 chatList_title: $text
 chatList_unpinnedArchiveAvatar_background_bottom: $muted
 chatList_unpinnedArchiveAvatar_background_top: $muted
@@ -415,7 +415,7 @@ root_tabBar_badgeBackground: $love
 root_tabBar_badgeStroke: $base
 root_tabBar_badgeText: $($text|$text|$base)
 root_tabBar_icon: $text
-root_tabBar_selectedIcon: $pine
-root_tabBar_selectedText: $pine
+root_tabBar_selectedIcon: $($pine|$pine|$rose)
+root_tabBar_selectedText: $($pine|$pine|$rose)
 root_tabBar_separator: $highlightMed8C
 root_tabBar_text: $text
