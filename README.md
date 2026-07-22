@@ -11,7 +11,7 @@
     - https://t.me/addtheme/rosepine_base
     - https://t.me/addtheme/rosepine_moon
     - https://t.me/addtheme/rosepine_dawn
-2. Open it in the Telegram mobile app
+2. Open it in the Telegram app
 3. Tap `Apply` to instantly apply the theme
 
 ## Gallery
