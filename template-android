@@ -61,7 +61,7 @@ avatar_text: $($text|$text|$overlay)
 bot_loadingIcon: $gold
 calls_callReceivedGreenIcon: $foam
 calls_callReceivedRedIcon: $love
-changephoneinfo_image2: #FF00FF
+changephoneinfo_image2: $iris
 changephoneinfo_image: #B8BFC5
 chat_BlurAlpha: #000000EE
 chat_BlurAlphaSlow: #000000DD
