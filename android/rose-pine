@@ -61,7 +61,7 @@ avatar_text: #e0def4
 bot_loadingIcon: #f6c177
 calls_callReceivedGreenIcon: #9ccfd8
 calls_callReceivedRedIcon: #eb6f92
-changephoneinfo_image2: #FF00FF
+changephoneinfo_image2: #c4a7e7
 changephoneinfo_image: #B8BFC5
 chat_BlurAlpha: #000000EE
 chat_BlurAlphaSlow: #000000DD
@@ -297,7 +297,7 @@ chat_outReplyLine2: #e0def4
 chat_outReplyLine: #e0def4
 chat_outReplyMediaMessageSelectedText: #c4a7e7
 chat_outReplyMediaMessageText: #c4a7e7
-chat_outReplyMessageText: #FFFFFF
+chat_outReplyMessageText: #e0def4
 chat_outReplyNameText: #e0def4
 chat_outSentCheck: #c4a7e7
 chat_outSentCheckRead: #c4a7e7

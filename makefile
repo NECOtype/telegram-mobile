@@ -1,3 +1,5 @@
+.PHONY: android ios
+
 android-template := ./template-android
 ios-template := ./template-ios
 
